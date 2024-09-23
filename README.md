@@ -6,7 +6,7 @@ Featuring:
 2. <1000 lines of python
 3. No dependencies other than PyTorch and sentencepiece
 4. int8/int4 quantization
-5. Speculative decoding
+5. Speculative decoding (needs some fixing)
 6. Tensor parallelism
 7. Supports Nvidia and AMD GPUs
 
